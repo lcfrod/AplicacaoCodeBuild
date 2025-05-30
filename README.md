@@ -1,3 +1,2 @@
-Apagar este frase e escrever outra aqui
-
-Esse arquivo é de instruções 
+Estes arquivos fazem parte do Módulo 10 - CodeBuild
+      
